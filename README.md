@@ -10,6 +10,4 @@ zcat /usr/share/zabbix-sql-scripts/postgresql/server.sql.gz | sudo -u zabbix psq
 DBPassword=123  
 systemctl restart zabbix-server zabbix-agent apache2  
 systemctl enable zabbix-server zabbix-agent apache2  
-
-
-
+![zab2](https://github.com/neo-13th/sys-hw-zabbix/assets/150372172/94973eae-7e9b-435e-bb5f-6740cd3f338e)
